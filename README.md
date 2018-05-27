@@ -1,6 +1,5 @@
-# Online-Lectures
-List of the online lectures which I've taken so far, and short reviews. </br>
-Mainly from Udacity and Couresa </br>
+# MOOCs
+I've worked in Physical Oceanography/Climate Science in quantitative/qualitative analysis and numerical simulation for ten years. I have been involved gathering datasets and developing analytical and numerical solutions based on machine learning and statistics such as regression model, principal component analysis, and time series analysis. Since 2017, I have taken online courses related to data science, machine/deep learning to fill the gap between science and industry requires. I learned various machine learning algorithms and tools such as neural network, CNN, RNN, scikitlearn, TensorFlow, and Keras. I am confident that my ten years of work experience and education and recent effort will make me a competitive candidate for a data scientist.
 
 
 ## Data Science
