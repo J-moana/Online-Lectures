@@ -5,6 +5,8 @@ I've worked in Physical Oceanography/Climate Science in quantitative/qualitative
 ## Data Science
 - Intro do Data Science (Udacity)
 - Intro to Data Analysis (Udacity)
+- Intro to Relational Databases:SQL (Udacity)
+
 ## Machine Learning
 - Intro to Machine Learning (Udacity)
 - Machine Learning Foundations: A Case Study Approach (Coursera)
