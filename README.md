@@ -30,6 +30,7 @@ I've worked in Physical Oceanography/Climate Science in quantitative/qualitative
 - Google Maps APIs (Udacity)
 
 ## Programming & etc. 
+- Programming Foundations with Python
 - How to Use Git and GitHub (Udacity)
 - Intro to Hadoop and MapReduce (Udacity)
 
