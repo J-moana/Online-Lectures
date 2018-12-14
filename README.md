@@ -29,9 +29,10 @@ I've worked in Physical Oceanography/Climate Science in quantitative/qualitative
 - Add Google Maps to your Android App (Udacity)
 - Google Maps APIs (Udacity)
 
-
-## Etc 
+## Programming & etc. 
 - How to Use Git and GitHub (Udacity)
+- Intro to Hadoop and MapReduce (Udacity)
+
 
 
 
